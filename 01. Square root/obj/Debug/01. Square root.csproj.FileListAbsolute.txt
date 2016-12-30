@@ -1,0 +1,6 @@
+D:\Projects\Exceptions\01. Square root\bin\Debug\_01.Square_root.exe.config
+D:\Projects\Exceptions\01. Square root\bin\Debug\_01.Square_root.exe
+D:\Projects\Exceptions\01. Square root\bin\Debug\_01.Square_root.pdb
+D:\Projects\Exceptions\01. Square root\obj\Debug\01. Square root.csprojResolveAssemblyReference.cache
+D:\Projects\Exceptions\01. Square root\obj\Debug\_01.Square_root.exe
+D:\Projects\Exceptions\01. Square root\obj\Debug\_01.Square_root.pdb

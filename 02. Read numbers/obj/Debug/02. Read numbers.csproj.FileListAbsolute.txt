@@ -1,0 +1,6 @@
+D:\Projects\Exceptions\02. Read numbers\bin\Debug\_02.Read_numbers.exe.config
+D:\Projects\Exceptions\02. Read numbers\bin\Debug\_02.Read_numbers.exe
+D:\Projects\Exceptions\02. Read numbers\bin\Debug\_02.Read_numbers.pdb
+D:\Projects\Exceptions\02. Read numbers\obj\Debug\_02.Read_numbers.exe
+D:\Projects\Exceptions\02. Read numbers\obj\Debug\_02.Read_numbers.pdb
+D:\Projects\Exceptions\02. Read numbers\obj\Debug\02. Read numbers.csprojResolveAssemblyReference.cache

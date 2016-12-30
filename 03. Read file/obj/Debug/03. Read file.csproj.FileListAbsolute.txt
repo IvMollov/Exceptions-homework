@@ -1,0 +1,6 @@
+D:\Projects\Exceptions\03. Read file\bin\Debug\_03.Read_file.exe.config
+D:\Projects\Exceptions\03. Read file\bin\Debug\_03.Read_file.exe
+D:\Projects\Exceptions\03. Read file\bin\Debug\_03.Read_file.pdb
+D:\Projects\Exceptions\03. Read file\obj\Debug\03. Read file.csprojResolveAssemblyReference.cache
+D:\Projects\Exceptions\03. Read file\obj\Debug\_03.Read_file.exe
+D:\Projects\Exceptions\03. Read file\obj\Debug\_03.Read_file.pdb

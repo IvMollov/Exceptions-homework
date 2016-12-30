@@ -1,0 +1,6 @@
+D:\Projects\Exceptions\05. User defined exception\bin\Debug\_05.User_defined_exception.exe.config
+D:\Projects\Exceptions\05. User defined exception\bin\Debug\_05.User_defined_exception.exe
+D:\Projects\Exceptions\05. User defined exception\bin\Debug\_05.User_defined_exception.pdb
+D:\Projects\Exceptions\05. User defined exception\obj\Debug\05. User defined exception.csprojResolveAssemblyReference.cache
+D:\Projects\Exceptions\05. User defined exception\obj\Debug\_05.User_defined_exception.exe
+D:\Projects\Exceptions\05. User defined exception\obj\Debug\_05.User_defined_exception.pdb

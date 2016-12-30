@@ -1,0 +1,6 @@
+D:\Projects\Exceptions\04. Download file\bin\Debug\_04.Download_file.exe.config
+D:\Projects\Exceptions\04. Download file\bin\Debug\_04.Download_file.exe
+D:\Projects\Exceptions\04. Download file\bin\Debug\_04.Download_file.pdb
+D:\Projects\Exceptions\04. Download file\obj\Debug\04. Download file.csprojResolveAssemblyReference.cache
+D:\Projects\Exceptions\04. Download file\obj\Debug\_04.Download_file.exe
+D:\Projects\Exceptions\04. Download file\obj\Debug\_04.Download_file.pdb
